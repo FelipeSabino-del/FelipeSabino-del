@@ -2,7 +2,8 @@
 
 <h4 align="center">How are you? I hope you are well, welcome to my profile. 😊😄</h4>
 <p align="center">
-    I am currently finishing studys on SENAI informatic's school
+    I finished studys on SENAI informatic's school
+    I am currently looking after for job's experiences
    </p>
 
 ---
