@@ -5,7 +5,10 @@
     I finished studys on SENAI informatic's school
    </p>
    <p align="center">
-    I am currently looking after for job's experiences
+    I'm studing on Mackenzie university - computer cience
+   </p>
+   <p align="center">
+    I am currently working as software developer since 2021
    </p>
 
 ---
