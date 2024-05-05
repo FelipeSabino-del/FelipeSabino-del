@@ -2,10 +2,10 @@
 
 <h4 align="center">How are you? I hope you are well, welcome to my profile. 😊😄</h4>
 <p align="center">
-    I finished studies at SENAI informatic's school
+    I finished studies at SENAI Informatic's school
    </p>
    <p align="center">
-    I'm studying on Mackenzie University - computer science
+    I'm studying at Mackenzie University - computer science
    </p>
    <p align="center">
     I am currently working as a software developer since 2021
